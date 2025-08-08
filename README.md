@@ -6,19 +6,9 @@ This repository contains my personal solutions to problems from [LeetCode](https
 
 ## 📊 My LeetCode Stats
 
-- 🔢 Total Problems Solved: **X**
-- 💡 Easy: **X**, 🟡 Medium: **X**, 🔴 Hard: **X**
+- 🔢 Total Problems Solved: **1**
+- 💡 Easy: **1**, 🟡 Medium: **0**, 🔴 Hard: **0**
 - 📅 Started: August 2025
-
----
-
-## 🗂️ Folder Structure
-
-leetcode-solutions/
-├── Easy/
-├── Medium/
-├── Hard/
-└── README.md
 
 ---
 
