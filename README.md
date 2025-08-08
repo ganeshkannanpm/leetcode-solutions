@@ -6,8 +6,8 @@ This repository contains my personal solutions to problems from [LeetCode](https
 
 ## 📊 My LeetCode Stats
 
-- 🔢 Total Problems Solved: **1**
-- 💡 Easy: **1**, 🟡 Medium: **0**, 🔴 Hard: **0**
+- 🔢 Total Problems Solved: **2**
+- 💡 Easy: **2**, 🟡 Medium: **0**, 🔴 Hard: **0**
 - 📅 Started: August 2025
 
 ---
@@ -17,6 +17,7 @@ This repository contains my personal solutions to problems from [LeetCode](https
 | # | Title | Difficulty | Language | Link |
 |--:|:------|:-----------|:---------|:-----|
 | 1 | Valid Palindrome | Easy | PHP | [🔗](https://leetcode.com/problems/valid-palindrome) |
+| 2 | Create Hello World Function | Easy | JavaScript | [🔗](https://leetcode.com/problems/create-hello-world-function) |
 
 ---
 
