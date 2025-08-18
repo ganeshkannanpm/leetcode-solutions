@@ -6,8 +6,8 @@ This repository contains my personal solutions to problems from [LeetCode](https
 
 ## 📊 My LeetCode Stats
 
-- 🔢 Total Problems Solved: **3**
-- 💡 Easy: **2**, 🟡 Medium: **1**, 🔴 Hard: **0**
+- 🔢 Total Problems Solved: **4**
+- 💡 Easy: **3**, 🟡 Medium: **1**, 🔴 Hard: **0**
 - 📅 Started: August 2025
 
 ---
@@ -19,6 +19,7 @@ This repository contains my personal solutions to problems from [LeetCode](https
 | 1 | Valid Palindrome | Easy | PHP | [🔗](https://leetcode.com/problems/valid-palindrome) |
 | 2 | Create Hello World Function | Easy | JavaScript | [🔗](https://leetcode.com/problems/create-hello-world-function) |
 | 3 | Reverse Words in a String | Medium | PHP | [🔗](https://leetcode.com/problems/reverse-words-in-a-string) |
+| 4 | Binary Search | Easy | PHP | [🔗](https://leetcode.com/problems/binary-search) |
 
 ---
 
